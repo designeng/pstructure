@@ -1,0 +1,26 @@
+{
+  "name": "wire-cola-experiments",
+  "private": true,
+  "scripts": {
+    "postinstall": "bower install"
+  },
+  "dependencies": {
+    "grunt": "~0.4.1",
+    "underscore": "latest"
+  },
+  "devDependencies": {
+    "chance": "^0.6.1",
+    "grunt-contrib-clean": "~0.4.1",
+    "grunt-contrib-coffee": "~0.7.0",
+    "grunt-contrib-concat": "",
+    "grunt-contrib-connect": "~0.6.0",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-contrib-handlebars": "^0.8.0",
+    "grunt-contrib-requirejs": "~0.4.1",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-js2coffee": "^0.3.0",
+    "grunt-newer": "~0.6.1",
+    "handlebars": "^2.0.0",
+    "superagent": "~0.17.0"
+  }
+}
